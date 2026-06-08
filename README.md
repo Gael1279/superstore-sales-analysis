@@ -16,7 +16,7 @@ and sub-category inefficiencies to inform business planning decisions.
   Furniture generates comparable revenue ($3.23M) but only $18K in profit, 
   indicating a cost structure problem requiring urgent review.
 - Central is the only loss-making region with a -10% average profit margin 
-  despite 2,323 sales — the highest priority area for operational intervention.
+  despite 2,323 sales, the highest priority area for operational intervention.
 - Tables, Bookcases, and Supplies are actively destroying value, generating 
   combined losses of -$22,387 despite 737 total units sold.
 
@@ -28,5 +28,5 @@ and sub-category inefficiencies to inform business planning decisions.
 
 
 ## Data Source
-Superstore Dataset — Kaggle (vivek468)
+Superstore Dataset|Kaggle (vivek468)
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
