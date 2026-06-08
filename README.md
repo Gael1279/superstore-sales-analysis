@@ -23,6 +23,11 @@ and sub-category inefficiencies to inform business planning decisions.
 ## Tools Used
 - Microsoft Excel (PivotTables, Power Query, Dashboard)
 
+## What I Learned
+- I made a dynamic dashboard through the use of pivot tables and Report connections
+- Made calculations using using pivot tables calculated fields
+- Alignment of charts and shapes using snap to grid
+  
 ## Dashboard Preview
 <img width="1256" height="1153" alt="StoreDashBoard" src="https://github.com/user-attachments/assets/4d7bf536-9b70-49e1-8c24-9ce500f3c021" />
 
